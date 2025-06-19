@@ -36,4 +36,4 @@ Este projeto está licenciado sob a licença MIT.
 
 ---
 
-Sinta-se à vontade para adaptar este README conforme o seu projeto evoluir.
+
